@@ -92,8 +92,8 @@ section {
 }
 
 aside {
-    /*float: right;*/
-    float: left;
+    float: right;
+    /*float: left;*/
     width: 19%;
     margin-top: 5px;
     margin-bottom: 5px;
