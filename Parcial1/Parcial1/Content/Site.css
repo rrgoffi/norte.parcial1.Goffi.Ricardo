@@ -80,7 +80,7 @@ header {
 }
 
 section {
-    background-color: #fafafa;
+    background-color: #ccc;
     padding: 5px;
     overflow: auto;
     /*float: left;*/
@@ -89,6 +89,7 @@ section {
     margin-top: 5px;
     margin-bottom: 5px;
     min-height: 450px;
+    text-align:justify;
 }
 
 aside {
